@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter import ttk
 import tkinter.font as font
 
-# Nirmal
+# Nirmal gg
 account = tk.Tk()
 account.title("finsYs")
 account.geometry("1000x1000")
