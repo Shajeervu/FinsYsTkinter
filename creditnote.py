@@ -4,7 +4,7 @@ from tkinter import *
 from  tkinter import ttk
 import tkinter.font as font
 
-
+#ihsdjrifjsiof
 credit_form = tk.Tk()
 credit_form.title("finsYs")
 credit_form.geometry("1000x1000")
