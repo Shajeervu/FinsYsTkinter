@@ -7,7 +7,7 @@ import tkinter.font as font
 import mysql.connector
 from tkinter import messagebox
 
-
+#fffffffffff
 def fun():#db connection
     global mydb,mycursor
     mydb=mysql.connector.connect(
