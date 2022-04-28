@@ -18,7 +18,7 @@ def fun():#db connection
         )
     mycursor = mydb.cursor()
 
-
+#hi
 def save_customdata():
     fun()
     global title,first_name,last_name,company,location,gst,gstin,pan_no,email,website,mobile,street,city,state,pin,country,shipstreet,shipcity,shipstate,shippin,shipcountry
