@@ -985,6 +985,7 @@ def main():
         global B
         B=tk.Toplevel(A)
         B.title('Add products')
+        B.title('edit products')
         B.geometry('1400x700')
         mycanvas=tk.Canvas(B,width=1500,height=1200)
         mycanvas.place(relx=0,rely=0,relwidth=1,relheight=1)
