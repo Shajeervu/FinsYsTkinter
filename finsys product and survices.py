@@ -17,12 +17,6 @@ def upload_file():
         # global filename,img, b2
         f_types =[('Png files','.png'),('Jpg Files', '.jpg')]
         filename = filedialog.askopenfilename(filetypes=f_types)
-        # shutil.copyfile(filename, os.getcwd()+'/images/'+filename.split('/')[-1])
-        # image = Image.open(filename)
-        # resize_image = image.resize((350, 350))
-        # img = ImageTk.PhotoImage(resize_image)
-        # b2 = Button(imageFrame,image=img)
-        # b2.place(x=130, y=80)
 
 def suplus():
     C=tk.Toplevel(B)
