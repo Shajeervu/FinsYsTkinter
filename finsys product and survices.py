@@ -10,7 +10,6 @@ from tkcalendar import DateEntry
 from PIL import Image,ImageTk
 
 
-
 def uploadimage():
 
         f_types=[('Png files','.png'),('Jpg Files', '.jpg')]
